@@ -1,0 +1,1 @@
+Este es un fichero tipo texto con diez palabras random.
